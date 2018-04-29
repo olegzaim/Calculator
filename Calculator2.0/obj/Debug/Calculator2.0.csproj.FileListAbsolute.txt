@@ -1,0 +1,10 @@
+C:\Users\AdminS\Downloads\Calculator-master\Calculator2.0\Calculator2.0\bin\Debug\Calculator2.0.exe.config
+C:\Users\AdminS\Downloads\Calculator-master\Calculator2.0\Calculator2.0\bin\Debug\Calculator2.0.exe
+C:\Users\AdminS\Downloads\Calculator-master\Calculator2.0\Calculator2.0\bin\Debug\Calculator2.0.pdb
+C:\Users\AdminS\Downloads\Calculator-master\Calculator2.0\Calculator2.0\obj\Debug\Calculator2.0.csprojResolveAssemblyReference.cache
+C:\Users\AdminS\Downloads\Calculator-master\Calculator2.0\Calculator2.0\obj\Debug\Calculator2._0.Form1.resources
+C:\Users\AdminS\Downloads\Calculator-master\Calculator2.0\Calculator2.0\obj\Debug\Calculator2._0.Properties.Resources.resources
+C:\Users\AdminS\Downloads\Calculator-master\Calculator2.0\Calculator2.0\obj\Debug\Calculator2.0.csproj.GenerateResource.cache
+C:\Users\AdminS\Downloads\Calculator-master\Calculator2.0\Calculator2.0\obj\Debug\Calculator2.0.csproj.CoreCompileInputs.cache
+C:\Users\AdminS\Downloads\Calculator-master\Calculator2.0\Calculator2.0\obj\Debug\Calculator2.0.exe
+C:\Users\AdminS\Downloads\Calculator-master\Calculator2.0\Calculator2.0\obj\Debug\Calculator2.0.pdb
